@@ -1,0 +1,7 @@
+
+//@theme "/usr/share/rofi/themes/Arc.rasi"
+
+@theme "/home/garuda/.config/rofi/themes/squared-nord.rasi"
+configuration {
+    display-icons: true;
+}
